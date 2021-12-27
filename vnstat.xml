@@ -1,0 +1,67 @@
+<vnstat version="1.14" xmlversion="1">
+ <interface id="ens3">
+  <id>ens3</id>
+  <nick>ens3</nick>
+  <created><date><year>2017</year><month>03</month><day>31</day></date></created>
+  <updated><date><year>2017</year><month>04</month><day>11</day></date><time><hour>08</hour><minute>15</minute></time></updated>
+  <traffic>
+   <total><rx>2515405814</rx><tx>2680895021</tx></total>
+   <days>
+    <day id="0"><date><year>2017</year><month>04</month><day>11</day></date><rx>125234541</rx><tx>135332107</tx></day>
+    <day id="1"><date><year>2017</year><month>04</month><day>10</day></date><rx>458161998</rx><tx>490395772</tx></day>
+    <day id="2"><date><year>2017</year><month>04</month><day>09</day></date><rx>320626019</rx><tx>343763586</tx></day>
+    <day id="3"><date><year>2017</year><month>04</month><day>08</day></date><rx>303986183</rx><tx>311084419</tx></day>
+    <day id="4"><date><year>2017</year><month>04</month><day>07</day></date><rx>256984236</rx><tx>274454665</tx></day>
+    <day id="5"><date><year>2017</year><month>04</month><day>06</day></date><rx>251694338</rx><tx>269764914</tx></day>
+    <day id="6"><date><year>2017</year><month>04</month><day>05</day></date><rx>289242046</rx><tx>313765457</tx></day>
+    <day id="7"><date><year>2017</year><month>04</month><day>04</day></date><rx>247771403</rx><tx>264956298</tx></day>
+    <day id="8"><date><year>2017</year><month>04</month><day>03</day></date><rx>128990000</rx><tx>137435417</tx></day>
+    <day id="9"><date><year>2017</year><month>04</month><day>02</day></date><rx>88271508</rx><tx>93100171</tx></day>
+    <day id="10"><date><year>2017</year><month>04</month><day>01</day></date><rx>32098401</rx><tx>33711013</tx></day>
+    <day id="11"><date><year>2017</year><month>03</month><day>31</day></date><rx>12345141</rx><tx>13131202</tx></day>
+   </days>
+,   <months>
+    <month id="0"><date><year>2017</year><month>04</month></date><rx>2503060673</rx><tx>2667763819</tx></month>
+    <month id="1"><date><year>2017</year><month>03</month></date><rx>12345141</rx><tx>13131202</tx></month>
+   </months>
+,   <tops>
+    <top id="0"><date><year>2017</year><month>04</month><day>10</day></date><time><hour>00</hour><minute>00</minute></time><rx>458161998</rx><tx>490395772</tx></top>
+    <top id="1"><date><year>2017</year><month>04</month><day>09</day></date><time><hour>00</hour><minute>00</minute></time><rx>320626019</rx><tx>343763586</tx></top>
+    <top id="2"><date><year>2017</year><month>04</month><day>08</day></date><time><hour>00</hour><minute>00</minute></time><rx>303986183</rx><tx>311084419</tx></top>
+    <top id="3"><date><year>2017</year><month>04</month><day>05</day></date><time><hour>00</hour><minute>00</minute></time><rx>289242046</rx><tx>313765457</tx></top>
+    <top id="4"><date><year>2017</year><month>04</month><day>07</day></date><time><hour>00</hour><minute>00</minute></time><rx>256984236</rx><tx>274454665</tx></top>
+    <top id="5"><date><year>2017</year><month>04</month><day>06</day></date><time><hour>00</hour><minute>00</minute></time><rx>251694338</rx><tx>269764914</tx></top>
+    <top id="6"><date><year>2017</year><month>04</month><day>04</day></date><time><hour>00</hour><minute>00</minute></time><rx>247771403</rx><tx>264956298</tx></top>
+    <top id="7"><date><year>2017</year><month>04</month><day>03</day></date><time><hour>00</hour><minute>00</minute></time><rx>128990000</rx><tx>137435417</tx></top>
+    <top id="8"><date><year>2017</year><month>04</month><day>02</day></date><time><hour>00</hour><minute>00</minute></time><rx>88271508</rx><tx>93100171</tx></top>
+    <top id="9"><date><year>2017</year><month>04</month><day>01</day></date><time><hour>00</hour><minute>00</minute></time><rx>32098401</rx><tx>33711013</tx></top>
+   </tops>
+,   <hours>
+    <hour id="0"><date><year>2017</year><month>04</month><day>11</day></date><rx>15307787</rx><tx>16527005</tx></hour>
+    <hour id="1"><date><year>2017</year><month>04</month><day>11</day></date><rx>13166276</rx><tx>14202701</tx></hour>
+    <hour id="2"><date><year>2017</year><month>04</month><day>11</day></date><rx>17911151</rx><tx>19153314</tx></hour>
+    <hour id="3"><date><year>2017</year><month>04</month><day>11</day></date><rx>13412731</rx><tx>14658518</tx></hour>
+    <hour id="4"><date><year>2017</year><month>04</month><day>11</day></date><rx>16520366</rx><tx>18150411</tx></hour>
+    <hour id="5"><date><year>2017</year><month>04</month><day>11</day></date><rx>14111684</rx><tx>15412236</tx></hour>
+    <hour id="6"><date><year>2017</year><month>04</month><day>11</day></date><rx>12282933</rx><tx>13206356</tx></hour>
+    <hour id="7"><date><year>2017</year><month>04</month><day>11</day></date><rx>17743567</rx><tx>19094634</tx></hour>
+    <hour id="8"><date><year>2017</year><month>04</month><day>11</day></date><rx>4778046</rx><tx>4926932</tx></hour>
+    <hour id="9"><date><year>2017</year><month>04</month><day>10</day></date><rx>19413982</rx><tx>21124289</tx></hour>
+    <hour id="10"><date><year>2017</year><month>04</month><day>10</day></date><rx>19971149</rx><tx>21435407</tx></hour>
+    <hour id="11"><date><year>2017</year><month>04</month><day>10</day></date><rx>15664958</rx><tx>16684374</tx></hour>
+    <hour id="12"><date><year>2017</year><month>04</month><day>10</day></date><rx>19721129</rx><tx>21345067</tx></hour>
+    <hour id="13"><date><year>2017</year><month>04</month><day>10</day></date><rx>19287094</rx><tx>20576198</tx></hour>
+    <hour id="14"><date><year>2017</year><month>04</month><day>10</day></date><rx>17368557</rx><tx>18461486</tx></hour>
+    <hour id="15"><date><year>2017</year><month>04</month><day>10</day></date><rx>22477275</rx><tx>23778422</tx></hour>
+    <hour id="16"><date><year>2017</year><month>04</month><day>10</day></date><rx>23430609</rx><tx>24594282</tx></hour>
+    <hour id="17"><date><year>2017</year><month>04</month><day>10</day></date><rx>25697219</rx><tx>27594421</tx></hour>
+    <hour id="18"><date><year>2017</year><month>04</month><day>10</day></date><rx>23842178</rx><tx>25629105</tx></hour>
+    <hour id="19"><date><year>2017</year><month>04</month><day>10</day></date><rx>23735927</rx><tx>25339550</tx></hour>
+    <hour id="20"><date><year>2017</year><month>04</month><day>10</day></date><rx>22323426</rx><tx>23539557</tx></hour>
+    <hour id="21"><date><year>2017</year><month>04</month><day>10</day></date><rx>26393040</rx><tx>27773964</tx></hour>
+    <hour id="22"><date><year>2017</year><month>04</month><day>10</day></date><rx>25142405</rx><tx>26601903</tx></hour>
+    <hour id="23"><date><year>2017</year><month>04</month><day>10</day></date><rx>21843966</rx><tx>23546557</tx></hour>
+   </hours>
+  </traffic>
+ </interface>
+</vnstat>
